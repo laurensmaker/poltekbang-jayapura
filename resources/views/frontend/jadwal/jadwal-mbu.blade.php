@@ -36,9 +36,9 @@
                             <i class="fas fa-share-alt me-2"></i>Share
                         </button>
                     </div>
-                    <button id="downloadPdf" class="btn btn-primary px-4">
+                    {{-- <button id="downloadPdf" class="btn btn-primary px-4">
                         <i class="fas fa-download me-2"></i>Download PDF
-                    </button>
+                    </button> --}}
                 </div>
 
                 <!-- Schedule Table -->

@@ -15,9 +15,9 @@
                 <i class="fas fa-print"></i> Print
             </button>
 
-            <button id="downloadPdf" class="btn btn-danger btn-sm">
+            {{-- <button id="downloadPdf" class="btn btn-danger btn-sm">
                 <i class="fas fa-download"></i> Download PDF
-            </button>
+            </button> --}}
         </div>
 
         <!-- TABLE AREA -->
